@@ -1,7 +1,7 @@
 # Kidnapped Vehicle Project
 Self-Driving Car Engineer Nanodegree Program - Term 2, Project 3
 
-This project implements a 2 dimensional particle filter in C++. Given a map and some initial localization information (analogous to what a GPS would provide), the filter gets observation and control data localizes the vehicle within the desired accuracy.
+This project implements a 2 dimensional particle filter in C++. Given a map and some initial localization information (analogous to what a GPS would provide), the filter gets observation and control data and localizes the vehicle within the desired accuracy.
 
 See project Rubric: https://review.udacity.com/#!/rubrics/747/view
 
